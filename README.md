@@ -9,15 +9,10 @@ Hosted en Streamlit cloud
 ## Características
 
 - **Acepta Multiples Dormatos de Entrada** - Excel, CSV y es facil de agregar mas
-- 
 - **Estadisticas Automaticas** - Para saber cantidad y tipo de informacion, y cual esta completa o faltante
-- 
 - **Variedad los Filtros** - Por posicion geografica, clado y posibilidad de agregar facilmente el que sea necesario
-- 
 - **Visualisacion de Data** - Para encontrar lo necesario sin perder tiempo
-- 
 - **Exportar a Shapefile listo para usar** - Permite a los cientificos extraer data especifica cuando gusten sin depender de otros
-- 
 - **Muy Facil de Actualizar y Escalar** - Con Streamlit, Python y arquitectura Minimalista
 
 
