@@ -451,10 +451,7 @@ def render_excel_uploader():
                 st.metric("Has Coordinates", "✅ Yes" if sheet_data['has_coordinates'] else "❌ No")
             
             # Tabs for different views
-            tab1, tab2, tab3, tab4 = st.tabs(["📋 Preview Data", "📊 Statistics", "🌳 Taxonomy", "🔍 Filter & Export"])
-            
-            with tab1:
-                st.dataframe(reader.get_preview(df), use_container_width=True)
+            tab2, tab3, tab4 = st.tabs([ "📊 Statistics", "🌳 Taxonomy", "🔍 Filter & Export"])
             
             with tab2:
                 stats = reader.get_summary_stats(df)
