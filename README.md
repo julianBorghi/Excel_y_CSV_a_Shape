@@ -2,7 +2,11 @@ WebApp para filtrar y seleccionar data de campo, y crear un shape instantaneo co
 
 ## 🚀 Demo online libre
 
-[https://excelycsvashape-r4hswvyrwxs7alcy7zafc9.streamlit.app/](https://excelycsvashape-r4hswvyrwxs7alcy7zafc9.streamlit.app/)
+Descarga los archivos de ejemplo para probar el demo:
+ - [Descargar plantilla Excel](https://raw.githubusercontent.com/julianBorghi/Excel_y_CSV_a_Shape/blob/main/Example_1%20Biodiversidad%20Valle%20Fértil.xlsx)
+ - [Descargar plantilla CSV](https://raw.githubusercontent.com/julianBorghi/Excel_y_CSV_a_Shape/blob/main/Example_2%200030327-260226173443078.csv)
+
+[Demo Excel y CSV a ShapeFile](https://excelycsvashape-r4hswvyrwxs7alcy7zafc9.streamlit.app/)
 
 Hosted en Streamlit cloud
 
