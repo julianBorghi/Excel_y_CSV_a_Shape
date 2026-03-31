@@ -6,9 +6,9 @@ Descarga los archivos de ejemplo para probar el demo:
  - [Descargar plantilla Excel](https://raw.githubusercontent.com/julianBorghi/Excel_y_CSV_a_Shape/main/Example_Excel.xlsx?raw=true)
  - [Descargar plantilla CSV](https://raw.githubusercontent.com/julianBorghi/Excel_y_CSV_a_Shape/main/Example_CSV.csv?raw=true)
 
-[Demo Excel y CSV a ShapeFile](https://excelycsvashape-r4hswvyrwxs7alcy7zafc9.streamlit.app/)
-
-Hosted en Streamlit cloud
+Luego Usa el Demo desde este link
+- [Abrir Demo Excel y CSV a ShapeFile](https://excelycsvashape-r4hswvyrwxs7alcy7zafc9.streamlit.app/)
+- Hosted en Streamlit cloud
 
 ## Características
 
